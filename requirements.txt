@@ -1,0 +1,3 @@
+requests
+simple-term-menu
+tqdm
